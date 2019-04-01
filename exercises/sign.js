@@ -16,7 +16,7 @@ const sign = number1 => {
         return 1
     }
     if (number1 === 0) {
-        return -0
+        return 0
     }
     else return -1
 }
